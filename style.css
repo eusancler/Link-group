@@ -35,8 +35,10 @@ body {
   background-size: cover;
 }
 #container {
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
-  width: 360px;
+  padding: 0 24px;
 }
 #profile img {
   height: 112px;
@@ -69,7 +71,7 @@ body {
   top: 50%;
   transform: translateY(-50%);
 }
-.light #switch button{
+.light #switch button {
   right: 0;
   left: initial;
 }
