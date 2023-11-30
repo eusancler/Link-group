@@ -29,6 +29,7 @@ body* {
 body {
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
+  overflow: hidden;
 }
 #scream {
   border: 1px solid white;
