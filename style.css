@@ -30,13 +30,23 @@ body {
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
 }
+#scream {
+  border: 1px solid white;
+  width: 100%;
+  max-width: 588px;
+  margin: 56px auto;
+  padding: 8px;
+  border-radius: 24px;
+  height: 900px;
+}
 #container {
   width: 100%;
   max-width: 588px;
-  margin: 56px auto 0px;
+  margin: auto 0px;
   padding: 0 24px;
   border: 1px solid white;
-  border-radius: 24px;
+  border-radius: 16px;
+  height: 100%;
 }
 
 #profile img {
