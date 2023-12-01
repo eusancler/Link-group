@@ -29,7 +29,6 @@ body* {
 body {
   background: var(--bg-url) no-repeat top center/cover;
   height: 100vh;
-
 }
 #scream {
   border: 1px solid var(--text-color);
@@ -148,11 +147,11 @@ ul li a:hover {
   transition: all 0.4s;
 }
 footer {
-  padding: 24px; 
+  padding: 24px;
   font-size: 14px;
   text-align: center;
 }
-#rp1{
+#rp1 {
   padding: 80px;
 }
 @media (min-width: 700px) {
@@ -179,7 +178,7 @@ footer {
     left: 0;
   }
 }
-h3{
+h3 {
   text-align: center;
   padding-top: 50px;
 }
